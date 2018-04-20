@@ -1,3 +1,5 @@
+It's an anotation for the library:
+
 It's an asymmetric coroutine library (like lua).
 
 You can use coroutine_open to open a schedule first, and then create coroutine in that schedule. 
